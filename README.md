@@ -1,2 +1,2 @@
 # side-hustle-php
-first task for side hustle internship php
+second minor task for side hustle internship php
